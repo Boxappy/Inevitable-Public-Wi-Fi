@@ -99,3 +99,4 @@
 ;useGamepad=false
 ;useCloseConfirm=true
 ;offscreenClickable=true
+;preload = true
